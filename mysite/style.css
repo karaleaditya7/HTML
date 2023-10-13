@@ -1,0 +1,63 @@
+.heading {
+ background-image: url('tent-by-lake-with-mountain-background_1340-34135.jpg');
+ /* background-color: aqua; */
+ text-align: center;
+ padding-top: 50px; 
+ height: 250px;
+ width: 100%;
+ 
+}
+
+.headline {
+    font-size: 100px;
+}
+.slogen {url
+    font-size: 25px;
+}   
+
+.egg{
+
+
+}
+
+.eggpic {
+    background-color: bisque;
+    border-radius: 25px;
+    height: 700px;
+    width: 630px;
+    float: left;
+    margin: 10px;
+}
+
+.egginfo {
+
+    background-color: bisque;
+    border-radius: 25px;
+    height: 700px;
+    width: 600px;
+    float: right;
+    margin: 10px;
+
+}
+
+
+.henspic {
+    background-color: rgb(163, 114, 55);
+    border-radius: 25px;
+    height: 700px;
+    width: 630px;
+    float: right;
+    margin: 10px;
+
+}
+
+
+.heninfo {
+    background-color: rgb(163, 114, 55);
+    border-radius: 25px;
+    height: 700px;
+    width: 600px;
+    float: left;
+    margin: 10px;
+
+}
