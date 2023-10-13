@@ -40,6 +40,11 @@
 
 }
 
+.text {
+    text-align: justify center;
+    color: brown;
+}
+
 
 .henspic {
     background-color: rgb(163, 114, 55);
