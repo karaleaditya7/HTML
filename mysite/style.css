@@ -38,11 +38,16 @@
     float: right;
     margin: 10px;
 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
 
-.text {
+.text ul li {
     text-align: justify center;
     color: brown;
+    margin-bottom: 50px;
 }
 
 
